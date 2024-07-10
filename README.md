@@ -1,1 +1,2 @@
-# didactic-octo-fortnight
+# コレはまだ制作途中でコレから実装を進めて行こうと思います
+#使用言語　python 
